@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -83,10 +86,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
