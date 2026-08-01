@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
