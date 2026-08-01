@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 ## Greedy
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
