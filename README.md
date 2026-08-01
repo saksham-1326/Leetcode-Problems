@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
