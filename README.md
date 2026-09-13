@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1991-find-the-middle-index-in-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
