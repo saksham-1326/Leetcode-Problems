@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
