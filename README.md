@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Queue
 |  |
 | ------- |
