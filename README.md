@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 ## Greedy
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Simulation
 |  |
