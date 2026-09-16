@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0164-maximum-gap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
