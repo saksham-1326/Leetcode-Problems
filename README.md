@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
