@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0278-first-bad-version) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
