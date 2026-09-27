@@ -16,7 +16,6 @@
 // }
 class Solution {
     public boolean isPalindrome(String s) {
-        s=s.toLowerCase();
         String filter_s = "";
         for(int i =0; i<s.length();i++){
             if (Character.isLetter(s.charAt(i)) || Character.isDigit(s.charAt(i))){
@@ -28,7 +27,7 @@ class Solution {
         for(int i = filter_s.length()-1; i>=0; i--){
             reverse+=filter_s.charAt(i);
         }
-        if (reverse.equals(filter_s)){
+        if (reverse.equalsIgnoreCase(filter_s)){
             return true;
         }
         return false;
