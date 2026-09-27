@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0392-is-subsequence) |
