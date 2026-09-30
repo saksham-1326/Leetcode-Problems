@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Queue
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
