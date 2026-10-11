@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 ## Greedy
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
