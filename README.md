@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
@@ -268,4 +269,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
