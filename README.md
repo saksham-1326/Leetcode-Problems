@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
