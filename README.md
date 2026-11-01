@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0682-baseball-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0771-jewels-and-stones](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
