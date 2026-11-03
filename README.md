@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
+| [2235-add-two-integers](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
