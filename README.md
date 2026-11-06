@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0682-baseball-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/saksham-1326/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/saksham-1326/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saksham-1326/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,10 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -314,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0292-nim-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saksham-1326/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
